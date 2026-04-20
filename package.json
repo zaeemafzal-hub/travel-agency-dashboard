@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@syncfusion/ej2-base": "^33.1.45",
     "@syncfusion/ej2-react-buttons": "^33.1.44",
     "@syncfusion/ej2-react-charts": "^33.1.44",

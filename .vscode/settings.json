@@ -1,4 +1,9 @@
 {
   "tailwindCSS.emmetCompletions": true,
-  "cSpell.words": ["APPWRITE", "syncfusion"]
+  "cSpell.words": ["APPWRITE", "syncfusion"],
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true
 }
