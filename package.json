@@ -23,6 +23,7 @@
     "@syncfusion/ej2-react-navigations": "^33.2.4",
     "@syncfusion/ej2-react-popups": "^33.2.5",
     "@syncfusion/ej2-react-splitbuttons": "^33.2.3",
+    "appwrite": "^25.0.0",
     "cross-env": "^10.1.0",
     "isbot": "^5.1.36",
     "react": "^19.2.4",
